@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "node": "^20.1.0"
+  },
+  "name": "logo-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
