@@ -8,6 +8,7 @@ This project was created using
 -Node.js
 -Jest
 -Javascript
+-Inquirer
 
 ## Intallation
 
@@ -25,3 +26,4 @@ When first opening up the terminal from the file.
 
 ## Video
 
+[Video](https://drive.google.com/file/d/1rbne3aF1pBMHiQpeN1lbRIKDn50gZVvY/view?usp=share_link)
